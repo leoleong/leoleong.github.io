@@ -1,12 +1,12 @@
-name:           Leo Leong
-description:    "Junior developer, hacker."
+name:           Leo J. Leong
+description:    "Junior developer, hacker. Que Sera, Sera!"
 
 markdown:       redcarpet
 pygments:       true
 logo:           false
 
 url:            "http://leoleong.github.io"
-author:         "Leo Leong"
+author:         "Leo J. Leong"
 bio:            "Programmer, developer. I love this world! --By Luo Yonghao"
 
 github:         leoleong

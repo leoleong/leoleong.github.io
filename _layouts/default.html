@@ -39,12 +39,8 @@
         <meta property="og:description" content="{{ site.description }}" /> 
     {% endif %} 
 
-    <!-- Google -->
-    <link rel="author" href="https://plus.google.com/117309494777005011259" />
-    <link rel="publisher" href="https://plus.google.com/117309494777005011259" />
-
     <!-- Apple -->
-    <link rel="apple-touch-icon" href="/assets/images/profile.png" />
+    <link rel="apple-touch-icon" href="/assets/images/profile.jpg" />
 
     <!-- Fonts -->
     <link rel="stylesheet" type="text/css" href='//fonts.googleapis.com/css?family=Source+Code+Pro|Open+Sans' />
@@ -54,13 +50,18 @@
     <link rel="stylesheet" type="text/css" href="/assets/styles/main.css" />
 
 </head>
+
 <body class="home-template">
 
     {{ content }}
 
     <footer class="site-footer">
         <div class="inner">
-            <section class="copyright">All content copyright <a href="{{ page.about }}">{{ site.name }}</a> &copy; {{ date format="YYYY" }} &bull; All rights reserved.</section>
+            <section class="copyright">
+                All content copyright <a href="{{ page.about }}">{{ site.name }}</a> &copy; {{ date format="YYYY" }} &bull; 
+                All rights reserved.
+                Powered by <a href="jekyllrb.com">Jekyll</a>.
+            </section>
         </div>
     </footer>
     
