@@ -1,13 +1,13 @@
 name:           Leo J. Leong
-description:    "Junior developer, hacker. Que Sera, Sera!"
+description:    "Junior programmer, developer, geeker. Que Sera, Sera!"
 
 markdown:       redcarpet
 pygments:       true
 logo:           false
 
-url:            "http://leoleong.github.io"
-author:         "Leo J. Leong"
-bio:            "Programmer, developer. I love this world! --By Luo Yonghao"
+url:            http://leoleong.github.io
+author:         Leo J. Leong
+bio:            "Junior programmer, developer, geeker."
 
 github:         leoleong
 twitter:        _leoleong
