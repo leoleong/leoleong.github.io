@@ -1,0 +1,13 @@
+name:           Leo Leong
+description:    "Junior developer, hacker."
+
+markdown:       redcarpet
+pygments:       true
+logo:           false
+
+url:            "http://leoleong.github.io"
+author:         "Leo Leong"
+bio:            "Programmer, developer. I love this world! --By Luo Yonghao"
+
+github:         leoleong
+twitter:        _leoleong
